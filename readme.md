@@ -1,0 +1,1 @@
+This is a program written in Node.js that enhances Windows user interface and development environment. Some scripts contain personal data, so they are encrypted and protected with a password. This program is useless for you if you don't know the password, but I'm sharing the code anyway, maybe someone will find some algorithms interesting and want to reuse them in their projects.
