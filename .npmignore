@@ -1,6 +1,5 @@
-/local-test
 /*.bat
 /package-lock.json
 /node_modules
 /private/original
-/private/descrypted
+/private/decrypted
